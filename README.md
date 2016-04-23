@@ -1,2 +1,2 @@
-# txh
-Q群登记系统
+# QQinfo_register_system
+同乡会Q群登记系统
